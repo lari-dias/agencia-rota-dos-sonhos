@@ -2,7 +2,6 @@
 A 'Rota dos Sonhos' é uma agência de turismo fictícia!<br>
 
 ## Sobre o projeto
-Esse projeto foi desenvolvido para fins acadêmicos (Recode Pro 2024/2025).<br>
 O objetivo do projeto é testar os meus conhecimentos, deixando a criatividade e a paixão por viagens falarem um pouquinho mais alto.<br>
 	
 ## Tecnologias
